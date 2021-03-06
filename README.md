@@ -1,5 +1,5 @@
 
-<h1 align="center">Rocket Theme</h1>
+<h1 align="center">🚀 Rocket Theme 🚀</h1>
 
 
 <p align="center">
