@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=rocket
+Description=display combusting rocket found in Pop!_OS installation
+Comment=created by Mennaruuk
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/rocket
+ScriptFile=/usr/share/plymouth/themes/rocket/rocket.script
