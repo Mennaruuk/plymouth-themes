@@ -24,7 +24,7 @@ For Debian-based distros only!
 
 **Download :** you can download via link below -
 <p align="center">
-  <a href="https://github.com/Mennaruuk/rocket-theme/raw/master/download/rocket.zip"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Mennaruuk/rocket-theme/releases/download/v1.0/rocket.zip"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
 </p>
 
 ### How to use Rocket theme?
