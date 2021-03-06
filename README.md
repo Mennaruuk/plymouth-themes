@@ -6,7 +6,6 @@
 Get that combusting rocket animation found in Pop!_OS installation right on your splash screen.</a>
 
 <p align="center">
-
 For Debian-based distros only!
 </p>
 
@@ -23,12 +22,12 @@ For Debian-based distros only!
 
 ### How to set it up?
 
-**Download :** you can download individual themes via link below -
+**Download :** you can download via link below -
 <p align="center">
   <a href="https://github.com/Mennaruuk/rocket-theme/raw/master/download/rocket.zip"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github"></a>
 </p>
 
-### How to use these theme?
+### How to use Rocket theme?
 
 + For **Debian** (Pop!_OS, Ubuntu, Kubuntu, etc.)-based distros:
 ```bash
