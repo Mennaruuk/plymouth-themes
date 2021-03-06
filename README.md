@@ -5,10 +5,17 @@
 <p align="center">
 Get that combusting rocket animation found in Pop!_OS installation right on your splash screen.</a>
 
-**For Debian-based distros only!** <p align="center"> (just because I have no idea how to code or do anything Linux. I'm weird.) </a>
+<p align="center">
+
+For Debian-based distros only!
 </p>
 
-![gif](https://i.imgur.com/4ofcFSr.gif)
+<p align="center"> (just because I have no idea how to code or do anything Linux. I'm weird.) </a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/4ofcFSr.gif" />
+</p>
 
 ### What is Plymouth?
 
