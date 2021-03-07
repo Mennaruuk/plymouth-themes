@@ -50,4 +50,4 @@ sudo update-initramfs -u
 
 
 ### FYI
-+ Thanks to @adi1090x! Without his work, this wouldn't have been possible :) [Check out his page](https://github.com/adi1090x)! And his distro [Archcraft](https://archcraft-os.github.io/) :)
++ Thanks to @adi1090x! Rocket Theme is a fork of his [Plymouth Themes](https://github.com/adi1090x/plymouth-themes). Without his work, this wouldn't have been possible :) [Check out his page](https://github.com/adi1090x)! And his distro [Archcraft](https://archcraft-os.github.io/) :)
